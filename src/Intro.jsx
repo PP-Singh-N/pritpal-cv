@@ -29,7 +29,7 @@ const Intro=()=>{
          
        .pauseFor(1000)
        .deleteAll()
-       .typeString("FrontEnd Developer & Digital Marketer")
+       .typeString("Full stack Developer & Digital Marketer")
        
        .start(200);
        }}
